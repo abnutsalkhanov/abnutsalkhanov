@@ -13,5 +13,5 @@ Have a solid basic knowledge of Python.
 - Git & GitHub
 
 ### 📫 Contacts
-- LinkedIn: https://www.linkedin.com/in/abdullah-nutsalkhanov-3b33203a9  
+- LinkedIn: www.linkedin.com/in/abnutsalkhanov  
 - Email: abdullahnosla01@gmail.com
