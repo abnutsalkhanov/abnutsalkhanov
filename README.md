@@ -6,7 +6,7 @@ Hi, I'm Abdullah — IT student passionate about AI engineering. Focused on buil
 ---
 
 ## 🛠 Tech stack
-`Python` `Git` `API` `LLM (Claude, OpenAI)` `Bitrix24`
+`Python` `Git` `API` `LLM (Claude, OpenAI)`
 
 ---
 
