@@ -1,17 +1,20 @@
-## Hi 👋 I'm Abdullah
+# Abdullah Nutsalkhanov
+### IT Student | AI & Automation
 
-### 👨‍💻 About Me
-Frontend Development Student  
-Currently learning HTML, CSS, and JavaScript.  
-Have a solid basic knowledge of Python.
+Hi, I'm Abdullah — IT student passionate about AI engineering. Focused on building AI agents, LLM integrations, and automation systems. Currently working on real-world projects and growing toward becoming an AI Engineer.
 
-### 🛠 Tech Stack
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
-- Git & GitHub
+---
 
-### 📫 Contacts
-- LinkedIn: www.linkedin.com/in/abnutsalkhanov  
+## 🛠 Tech stack
+`Python` `Git` `API` `LLM (Claude, OpenAI)` `AI Agents` `Bitrix24`
+
+---
+
+## 📚 Currently learning
+`AI Agents & Automation` `REST API & Integrations` `Bitrix24` `Linux & Networking`
+
+---
+
+## 📬 Contacts
+- Telegram: [@abnutsalkhanov](https://t.me/abnutsalkhanov)
 - Email: abdullahnosla01@gmail.com
