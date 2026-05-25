@@ -1,17 +1,16 @@
 # Abdullah Nutsalkhanov
-### IT Student | AI & Automation
 
-Hi, I'm Abdullah — IT student passionate about AI engineering. Focused on building AI agents, LLM integrations, and automation systems. Currently working on real-world projects and growing toward becoming an AI Engineer.
-
----
-
-## 🛠 Tech stack
-`Python` `Git` `API` `LLM (Claude, OpenAI)`
+Hi, I'm Abdullah — IT student focused on AI automation and LLM integrations. Working with Python, Linux, APIs, and practical AI-driven projects for business workflows.
 
 ---
 
-## 📚 Currently learning
-`AI Agents & Automation` `REST API & Integrations` `Bitrix24` `Linux & Networking`
+## 🛠 Tech Stack
+`Python` `Git` `Linux` `LLM APIs`
+
+---
+
+## 📚 Currently Learning
+`AI agents & workflows` `REST APIs` `Linux & networking` `Bitrix24`
 
 ---
 
