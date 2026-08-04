@@ -1,16 +1,11 @@
 # Abdullah Nutsalkhanov
 
-Hi, I'm Abdullah — IT student focused on AI automation and LLM integrations. Working with Python, Linux, APIs, and practical AI-driven projects for business workflows.
+Hi, I'm Abdullah — IT student building a foundation in backend development (Python, Linux, APIs) with a focus on AI integrations and automation.
 
 ---
 
 ## 🛠 Tech Stack
 `Python` `Git` `Linux` `LLM APIs`
-
----
-
-## 📚 Currently Learning
-`AI agents & workflows` `REST APIs` `Linux & networking` `Bitrix24`
 
 ---
 
