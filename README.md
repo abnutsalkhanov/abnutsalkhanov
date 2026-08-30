@@ -10,5 +10,5 @@ Hi, I'm Abdullah — IT student building a foundation in backend development (Py
 ---
 
 ## 📬 Contacts
-- Telegram: [@abnutsalkhanov](https://t.me/abnutsalkhanov)
-- Email: abdullahnosla01@gmail.com
+- Telegram: [@abnutsalv](https://t.me/abnutsalv)
+- Email: abnutsalv@gmail.com
